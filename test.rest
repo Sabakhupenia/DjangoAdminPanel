@@ -1,0 +1,10 @@
+POST  /admin/DjangoADminPanel/filterwords/add/
+Content-Type: application/json
+
+{
+    "client": "Client2",
+    "word": "Word2",
+    "word_alias": "WordAlias2",
+    "subword_alias": "SubwordAlias2",
+    "stopword": "Stopword2"
+}
